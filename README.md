@@ -16,20 +16,12 @@ ai go brrr then itll go kabooowww
 
 ---
 
-## Projects
+## Checkout
 
 
-<summary><b>erme</b> — Autonomous Multi-Agent OS</summary>
-
-
-<summary><b>YORE</b> — Deeply Personalized Game Launcher</summary>
-
+<summary><b>Trail</b> — Autonomous Multi-Agent OS</summary>
 
 <summary><b>Argus</b> — Chromium Security System</summary>
-
-
-<summary><b>Lucent</b> — ONNX Vision Based Aimbot</summary>
-
 
 
 ---
