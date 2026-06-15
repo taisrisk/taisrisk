@@ -19,9 +19,9 @@ ai go brrr then itll go kabooowww
 ## Checkout
 
 
-<summary><b>Trail</b> — Autonomous Multi-Agent OS</summary>
+<summary><b>Trail</b> — Self-sovereign email with local AI, encrypted vaults, and domain ownership</summary>
 
-<summary><b>Argus</b> — Chromium Security System</summary>
+<summary><b>Argus</b> — Real-time browser credential theft protection with multi-signal threat correlation.</summary>
 
 
 ---
