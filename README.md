@@ -13,10 +13,11 @@
 ---
 
 ai go brrr then itll go kabooowww
+i love samonas
 
 ---
 
-## Checkout
+## Check out:
 
 
 <summary><b>Trail</b> — Self-sovereign email with local AI, encrypted vaults, and domain ownership</summary>
