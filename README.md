@@ -2,20 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,100:141414&text=ZroRisc&fontSize=56&fontColor=fffdc7&animation=fadeIn&fontAlignY=40&desc=Building%20software%20that%20acts&descSize=15&descAlignY=60&descColor=888888"/>
 
-<br/>
-
-[![Discord](https://img.shields.io/badge/discord-Profile-FFFDC7?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/830771328810221598)
-[![Email](https://img.shields.io/badge/email-contact-FFFDC7?style=flat-square&logo=gmail&logoColor=0d0d0d)](mailto:taisrisk@pm.me)
-[![Instagram](https://img.shields.io/badge/instagram-lyingpoem-FFFDC7?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lyingpoem)
-
-</div>
-
----
 
 ai go brrr then itll go kabooowww
 i love samonas
 
----
 
 ## Check out:
 
@@ -25,7 +15,6 @@ i love samonas
 <summary><b>Argus</b> — Real-time browser credential theft protection with multi-signal threat correlation.</summary>
 
 
----
 
 ## Stack
 
@@ -33,7 +22,6 @@ i love samonas
 <img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,tauri,react,nextjs,docker,linux,postgres,sqlite,git"/>
 </p>
 
----
 
 ## Stats
 
@@ -46,7 +34,6 @@ i love samonas
 <img src="https://streak-stats.demolab.com?user=taisrisk&hide_border=true&background=0D0D0D&ring=FFFDC7&fire=FFFDC7&currStreakLabel=FFFDC7&sideLabels=888888&dates=666666&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc"/>
 </div>
 
----
 
 <div align="center">
 <sub>Building software that acts, remembers, adapts, and evolves.</sub>
