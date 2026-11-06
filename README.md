@@ -4,7 +4,7 @@
 
 
 ai go brrr then itll go kabooowww
-i love samonas
+i love samosas
 
 
 ## Check out:
